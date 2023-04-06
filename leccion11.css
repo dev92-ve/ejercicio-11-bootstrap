@@ -1,0 +1,21 @@
+.viewport{
+    width: 100vw;
+}
+
+.col{
+    background-color: aqua;
+}
+.col-sm{
+    background-color: blanchedalmond;
+}
+
+.col-md{
+    background-color: cadetblue;
+}
+.col-lg{
+    background-color: tomato;
+}
+.col-xl{
+    background-color: rebeccapurple;
+}
+
